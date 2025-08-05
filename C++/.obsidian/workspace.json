@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "82139c2fda8f7c81",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6fb5b9807898fe1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "158f2244babf6aff",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "C++ fundamentals.canvas",
+                "viewState": {
+                  "x": 134.5,
+                  "y": 104,
+                  "zoom": -1.2349913686519909
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "C++ fundamentals"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2e874509bcf1e9b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "309552abdf5dcf44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34dba3a84ba6e109",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4757fd6843028e47",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "50ed19ce8241ec3a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1e7684123a3ff121",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ecbc0bad503c789",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81a7db895013fd53",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "447fe79574274357",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "fc46ddfac42139da",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b90c02cfe93a6982",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "158f2244babf6aff",
+  "lastOpenFiles": [
+    "Projetos em andamento!.md",
+    "Por que estudar c++?.md",
+    "Projetos/Arduino - RFID/2025-08-02.md",
+    "C++ fundamentals.canvas",
+    "Estudos Diarios/2025-08-05 - Obsidian - começo.md",
+    "Estudos Diarios",
+    "Untitled 1",
+    "Projetos/Arduino - RFID",
+    "Projetos",
+    "Untitled.canvas",
+    "create a link.md",
+    "Welcome.md"
+  ]
+}

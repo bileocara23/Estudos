@@ -1,0 +1,3 @@
+- A partir de hoje começarei a usar o obsidian para armazenar meus estudos.
+- Revisei o código do lockscreen para entender melhor o funcionamento de algumas bibliotecas.
+- Verifiquei como utilizar ifstream e ofstream, para ler arquivos.

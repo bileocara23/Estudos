@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"5433c8a7a386d363","type":"text","text":"**tipos primitivos**\n\nint, float, double, bool, char","x":238,"y":-154,"width":250,"height":147},
+		{"id":"ced0ea4e6eaa055a","type":"text","text":"**Pointers** (pon~teiros):\n\nPonteiros são ferramentas que localizam e mostram o valor de uma variavel ou constante alocada na memoria \n\n- Ponteiros ( _asterisco_, &, -> )\n- Alocação dinâmica ( new, delete )\n\n(ainda não compreendo muito bem)\n\ndigamos que eu tenha uma constante \"pi\", e eu quero o dela que está **Alocado no sistema** e eu quero puxar o enderaçamento pela variavel \"endereco\". Então assim seria feito:\n\nconst int pi = 3.14\nint (asterisco)endereco = &pi","x":-331,"y":340,"width":540,"height":468},
+		{"id":"d70de54efe544994","type":"text","text":"STL (Standard Template Library)","x":-224,"y":-260,"width":327,"height":74},
+		{"id":"975e64003f497585","type":"text","text":"**GITHUB**\n[github | C++](https://github.com/bileocara23/to-learn-c-.git)","x":-314,"y":120,"width":180,"height":80},
+		{"id":"27a496a36b3cbf5b","type":"text","text":"C++ fundamentals","x":-185,"y":-7,"width":250,"height":87},
+		{"id":"b9ce126d7f7a294c","type":"text","text":"- VECTORS\n- STRINGS\n- MAPS\n- ITERATES\n- ALGORITHMS ","x":-177,"y":-600,"width":233,"height":249},
+		{"id":"af16d3ea16cff1a3","type":"text","text":"**Operadores lógicos**:\n\n**Operadores de fluxo**:\nif, else, else if\nswitch\nfor, while, do while\nbreak, continue","x":238,"y":40,"width":362,"height":240}
+	],
+	"edges":[
+		{"id":"466ef6de3a780c97","fromNode":"27a496a36b3cbf5b","fromSide":"right","toNode":"5433c8a7a386d363","toSide":"left"},
+		{"id":"7150d329b3ec082b","fromNode":"27a496a36b3cbf5b","fromSide":"right","toNode":"af16d3ea16cff1a3","toSide":"left"},
+		{"id":"d9ca20f0da12a959","fromNode":"27a496a36b3cbf5b","fromSide":"bottom","toNode":"ced0ea4e6eaa055a","toSide":"top"},
+		{"id":"7f37bf147132513c","fromNode":"27a496a36b3cbf5b","fromSide":"top","toNode":"d70de54efe544994","toSide":"bottom"},
+		{"id":"37154c1f2aa0b75d","fromNode":"d70de54efe544994","fromSide":"top","toNode":"b9ce126d7f7a294c","toSide":"bottom"}
+	]
+}
