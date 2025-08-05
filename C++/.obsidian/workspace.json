@@ -11,17 +11,10 @@
             "id": "158f2244babf6aff",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "C++ fundamentals.canvas",
-                "viewState": {
-                  "x": 134.5,
-                  "y": 104,
-                  "zoom": -1.2349913686519909
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "C++ fundamentals"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -168,11 +161,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "158f2244babf6aff",
+  "active": "34dba3a84ba6e109",
   "lastOpenFiles": [
+    "Projetos/Arduino - RFID/2025-08-02.md",
     "Projetos em andamento!.md",
     "Por que estudar c++?.md",
-    "Projetos/Arduino - RFID/2025-08-02.md",
     "C++ fundamentals.canvas",
     "Estudos Diarios/2025-08-05 - Obsidian - começo.md",
     "Estudos Diarios",
